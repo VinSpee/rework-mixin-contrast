@@ -1,0 +1,25 @@
+{
+  "name": "rework-mixin-contrast",
+  "version": "0.1.0",
+  "description": "Provides the optimally contrasted color when given another color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinSpee/rework-mixin-contrast.git"
+  },
+  "keywords": [
+    "rework",
+    "mixin",
+    "color",
+    "contrast"
+  ],
+  "author": "Vince Speelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinSpee/rework-mixin-contrast/issues"
+  },
+  "homepage": "https://github.com/VinSpee/rework-mixin-contrast"
+}
