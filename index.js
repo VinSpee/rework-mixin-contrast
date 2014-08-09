@@ -40,4 +40,4 @@ function contrast(color, lightDefault, darkDefault) {
   };
 }
 
-module.exports = contrasted;
+module.exports = contrast;
